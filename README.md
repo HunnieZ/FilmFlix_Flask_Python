@@ -1,6 +1,7 @@
 Dislaimer-**The following is a fictional project including any names**
 
 I was asked to develop a command line Python application for 'Film Flix' to manage their film database.
+This is a full-stack application using Python and Flask.
 
 The project brief is as follows:
 * No more than 40 records
